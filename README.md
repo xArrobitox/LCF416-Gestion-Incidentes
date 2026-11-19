@@ -14,3 +14,13 @@ Desde la carpeta principal del proyecto:
 
 ```bash
 python src/main.py
+
+## Clase 9: Herencia y polimorfismo
+
+- Clase base Incidente.
+- Subclases IncidenteMalware e IncidenteAcceso.
+- Sobrescritura del método generar_reporte().
+- Validaciones de gravedad, estado e identificadores.
+- Ejecución: python main.py
+- Pruebas: python -m unittest discover -s tests -v
+
