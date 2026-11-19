@@ -1,0 +1,4 @@
+1: Equipo de demostracion | Gravedad: Baja | Estado: Abierto
+2: Archivo sospechoso | Gravedad: Alta | Estado: Abierto | Malware: TroyanoDemo
+3: Intentos fallidos | Gravedad: Media | Estado: Abierto | Cuenta: cuenta_demo | Intentos: 8
+4: Proceso simulado | Gravedad: Critica | Estado: Abierto | Malware: RansomwareDemo
